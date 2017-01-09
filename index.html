@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<section class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <h1>Vegånia</h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <h1 class="page-heading">Uutiset</h1>
+      <ul class="list-unstyled">
+        {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%-d.%-m %Y" }}</span>
+            <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

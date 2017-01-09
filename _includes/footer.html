@@ -1,0 +1,28 @@
+<footer class="container-fluid">
+  <div class="row">
+    <div class="col-sm col-xs-12">
+      <ul class="list-unstyled">
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="{{ " /feed.xml " | prepend: site.baseurl }}">RSS</a></li>
+      </ul>
+    </div>
+    <div class="col-sm col-xs-12">
+      <ul class="list-unstyled">
+        {% if site.twitter_username %}
+        <li>
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        {% endif %}
+        {% if site.github_username %}
+        <li>
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="col-sm col-xs-12">
+      <p>{{ site.excerpt }}</p>
+    </div>
+  </div>
+</footer>

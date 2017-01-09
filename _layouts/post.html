@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post container-fluid" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="row">
+    <header class="col">
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d.%-m %Y" }}</time>
+        {% if page.author %}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span itemprop="name">{{ page.author }}</span>
+            </span>
+        {% endif %}
+      </p>
+    </header>
+
+  <div class="row">
+    <div class="content col" itemprop="articleBody">
+      {{ content }}
+    </div>
+  </div>
+
+</article>
