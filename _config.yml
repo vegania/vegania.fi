@@ -13,8 +13,8 @@ excerpt: > # "description:"
   automaattisesti.
 description: > # this means to ignore newlines until "baseurl:"
   Tähän sivuston kuvaus muutamalla lauseella. Samoin tämä sisällytetään myös feed.xml tiedostoon "site description" kenttään.
-baseurl: "/vegania" # the subpath of your site, e.g. /blog
-url: "https://keno.kapsi.fi" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vegania.github.io" # the base hostname & protocol for your site
 twitter:
   username: veganiaturku
 facebook:
