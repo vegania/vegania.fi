@@ -1,18 +1,21 @@
 <header class="site-header">
     <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <li class="nav-item"><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-        </ul>
-      </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                {% assign pages = site.pages | sort:"main-menu-weight" %} {% for p in pages %} {% if p.main-menu %}
+                <li class="nav-item"><a class="nav-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.main-menu }}</a></li>
+                {% endif %} {% endfor %}
+            </ul>
+        </div>
     </nav>
+    <div class="jumbotron jumbotron-fluid hero">
+        <div class="container">
+            <h1 class="text-hide">{{ page.title | Vegånia }}<img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="{{ page.title | Vegånia }}" class="img-fluid"></h1>
+        </div>
+    </div>
 </header>
