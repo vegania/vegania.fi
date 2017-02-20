@@ -28,6 +28,8 @@ markdown: kramdown
 
 gems:
   - jekyll-seo-tag
+  - bootstrap
+  - autoprefixer-rails
 
 exclude:
   - node_modules
