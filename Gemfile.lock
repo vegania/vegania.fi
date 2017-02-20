@@ -219,6 +219,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   github-pages
   jekyll-assets
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.13.7
