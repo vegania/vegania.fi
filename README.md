@@ -1,2 +1,2 @@
-# vegania.github.io
+# vegania.fi
 Vegånia sivusto
