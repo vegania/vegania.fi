@@ -26,3 +26,8 @@ footer {
     max-height: 30vh;
   }
 }
+
+body > footer,
+.jumbotron {
+  background-color: $brand-primary;
+}
