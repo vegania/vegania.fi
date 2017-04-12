@@ -26,6 +26,8 @@ facebook:
   admins: 1
 github_username: vegania
 gogle_analytics: UA-93333101-1
+logo: /images/share_logo.png
+lang: fi_FI
 
 # Build settings
 markdown: kramdown
