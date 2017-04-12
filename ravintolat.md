@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Vegånia - Ohjelma
-permalink: /ohjelma/
-main-menu: Ohjelma
+title: Vegånia - Ravintolat
+permalink: /ravintolat/
+main-menu: Ravintolat
 main-menu-weight: 1
 ---
 
