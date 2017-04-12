@@ -7,14 +7,15 @@
 
 # Site settings
 title: Vegånia
-email: info@vegania.fi
+email: info.vegania@gmail.com
 excerpt: > # "description:"
-  Uusi vegaaniruokatapahtuma Turkuun kesällä – Vegåniassa ei tarjota mitään eläinperäistä
-description: > # this means to ignore newlines until baseurl:"
-  Elokuussa 2017 järjestetään ensimmäistä kertaa Turussa Vanhalla Suurtorilla Vegånia –
-  vegaaniruokafestivaali. 4.–5.8. järjestettävässä tapahtumassa on pääosassa hyvä ruoka, joka on
-  kestävästi tuotettua ja eläinten oikeuksia kunnioittavaa. Vegånia ei kuitenkaan ole tapahtuma vain
-  vegaaneille, vaan kaikkien kaupunkilaisten yhteinen ruokajuhla.
+  Uusi koko kansan vegaaniruokatapahtuma Turkuun kesällä – Vegåniassa tarjotaan maittavaa ruokaa ympäristöä kunnioittaen
+description: > # "baseurl:"
+  Elokuussa 2017 Turussa järjestetään ensimmäistä kertaa Vegånia –
+  vegaaniruokafestivaali. Vanhan Suurtorin 4.–5.8. täyttävän tapahtuman
+  pääosassa on maukas ruoka, joka on laadukasta, kestävästi tuotettua ja
+  eettistä. Vegånia on tapahtuma vegaaneille ja yhtälailla kaikkien
+  kaupunkilaisten yhteinen ruokajuhla.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vegania.github.io" # the base hostname & protocol for your site
 twitter:
@@ -36,6 +37,7 @@ gems:
 
 exclude:
   - node_modules
+  - material
   - README.md
   - package.json
   - Gemfile
