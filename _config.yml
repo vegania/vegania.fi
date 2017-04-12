@@ -17,7 +17,7 @@ description: > # "baseurl:"
   eettistä. Vegånia on tapahtuma vegaaneille ja yhtälailla kaikkien
   kaupunkilaisten yhteinen ruokajuhla.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vegania.github.io" # the base hostname & protocol for your site
+url: "https://vegania.fi" # the base hostname & protocol for your site
 twitter:
   username: veganiaturku
 facebook:
@@ -38,6 +38,7 @@ gems:
 exclude:
   - node_modules
   - material
+  - vendor
   - README.md
   - package.json
   - Gemfile
