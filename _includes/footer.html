@@ -9,6 +9,11 @@
     </div>
     <div class="col-sm col-xs-12">
       <ul class="list-unstyled">
+        {% if site.facebook.username %}
+        <li>
+          {% include icon-facebook.html username=site.facebook.username %}
+        </li>
+        {% endif %}
         {% if site.twitter.username %}
         <li>
           {% include icon-twitter.html username=site.twitter.username %}
