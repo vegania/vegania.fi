@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Vegånia
+title: "Vegånia"
 email: info.vegania@gmail.com
 excerpt: > # "description:"
   Uusi koko kansan vegaaniruokatapahtuma Turkuun kesällä – Vegåniassa tarjotaan maittavaa ruokaa ympäristöä kunnioittaen
@@ -19,12 +19,15 @@ description: > # "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vegania.fi" # the base hostname & protocol for your site
 twitter:
-  username: veganiaturku
+  username: info.vegania
 facebook:
   app_id: 1
   publisher: 1
   admins: 1
-github_username: vegania
+github:
+  username: vegania
+instagram:
+  username: info.vegania
 gogle_analytics: UA-93333101-1
 logo: /images/share_logo.png
 lang: fi_FI
