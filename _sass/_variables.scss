@@ -26,3 +26,10 @@ $headings-font-family: 'Quicksand', $font-family-sans-serif;
 
 $brand-primary: rgb(102, 153, 51);
 $brand-effect: rgb(51, 204, 204);
+
+// Navbar
+
+// jos teksti vihreenä
+$navbar-light-color: $brand-primary;
+$navbar-light-hover-color: darken($brand-primary, 20%);
+$navbar-light-active-color: $navbar-light-color;
