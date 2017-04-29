@@ -4,7 +4,7 @@ title: Vegånia - Ruokatori
 permalink: /ruokatori/
 main-menu: Ruokatori
 main-menu-weight: 2
-lead: "Vegånia-ruokatori järjestetään 4.–5.8.2017 Vanhalla Suurtorilla."
+description: "Vegånia-ruokatori järjestetään 4.–5.8.2017 Vanhalla Suurtorilla."
 ---
 
 Ruokatorin aikataulu ja ohjelma julkistetaan myöhemmin.
