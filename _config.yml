@@ -36,6 +36,9 @@ lang: fi_FI
 # Build settings
 markdown: kramdown
 
+sass:
+  style: compressed
+
 gems:
   - jekyll-seo-tag
   - bootstrap
