@@ -1,0 +1,31 @@
+{
+  "name": "vegania.fi",
+  "version": "1.0.0",
+  "description": "vegania.fi sivusto",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "fetch-inject": "^1.7.0"
+  },
+  "devDependencies": {
+    "critical": "^0.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jekyll-build": "bundle exec jekyll build",
+    "build": "npm run js && npm run css && npm run jekyll-build",
+    "css": "npm run jekyll-build && npm run css-critical",
+    "css-critical": "./node_modules/critical/cli.js _site/index.html --base _site --minify > _includes/critical.min.css",
+    "js": "cp node_modules/fetch-inject/dist/fetch-inject.min.js _includes/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegania/vegania.fi.git"
+  },
+  "author": "Kenneth Lindqvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vegania/vegania.fi/issues"
+  },
+  "homepage": "https://github.com/vegania/vegania.fi#readme"
+}
