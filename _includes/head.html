@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/critical.min.css" | prepend: site.baseurl }}">
+  <style>{% include critical.min.css %}</style>
   <link rel="preload" href="{{ "/css/main.css" | prepend: site.baseurl }}" as="style" onload="this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"></noscript>
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Muli|Quicksand" as="style" onload="this.rel='stylesheet'">
