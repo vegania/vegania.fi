@@ -13,8 +13,16 @@ layout: default
 <section class="container-fluid">
   <div class="row justify-content-center">
     <div class="col col-lg-8 col-md-10 col-sm-12">
+      <h2>Tiedotteet</h2>
         {% for post in site.posts %}
-          {% include post.html content=post %}
+          <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+            <h3 itemprop="name headline">{{ post.title }}</h3>
+            <p class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d.%-m %Y" }}</time>
+            </p>
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}">Lue lisää...</a>
+          </article>
         {% endfor %}
     </div>
   </div>
