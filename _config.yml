@@ -43,6 +43,7 @@ gems:
   - jekyll-seo-tag
   - bootstrap
   - autoprefixer-rails
+  - jekyll-last-modified-at
   - jekyll-sitemap
 
 exclude:
