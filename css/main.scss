@@ -28,6 +28,10 @@ footer {
 
 article {
   margin-bottom: 2rem;
+
+  .headline {
+    font-size: 1.75rem;
+  }
 }
 
 footer {
@@ -51,7 +55,7 @@ footer {
 }
 
 .hero {
-  background-image: url('../images/hero_main.jpg');
+  background-image: url('/images/hero_main.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
