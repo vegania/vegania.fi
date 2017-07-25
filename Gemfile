@@ -6,4 +6,5 @@ group :jekyll_plugins do
   gem 'autoprefixer-rails'
   gem 'jekyll-assets'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
 end
