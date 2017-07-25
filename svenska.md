@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "På svenska"
-lang: en
+lang: se
 permalink: /svenska/
 main-menu: "På svenska"
 main-menu-weight: 6
