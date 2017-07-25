@@ -15,7 +15,7 @@
     </nav>
     <div class="jumbotron jumbotron-fluid hero">
         <div class="container">
-            <h1 class="text-hide">{{ page.title | Vegånia }}<img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="{{ page.title | Vegånia }}" class="img-fluid"></h1>
+            <h1 class="text-hide">{{ page.title | Vegånia }}<img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="{{ page.title | default: "Vegånia" }}" class="img-fluid"></h1>
         </div>
     </div>
 </header>
