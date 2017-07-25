@@ -1,0 +1,71 @@
+- url: https://www.yosa.fi
+  logo: yosa.png
+  label: Bioferme
+
+- url: http://www.ravintolakuori.fi
+  logo: kuori.png
+  label: Ravintola Kuori
+  imgclass: inverted
+
+- url: http://www.rootskitchen.fi
+  logo: roots.png
+  label: Roots Kitchen
+
+- url: https://www.facebook.com/Tikitak.ravintola
+  label: Tikitak
+  logo: tikitak.jpg
+
+- url: https://www.facebook.com/goodsastruck/
+  label: Good Sås
+  logo: goodsas.jpg
+
+- url: https://www.facebook.com/cafeketunleipa/
+  label: Cafe Ketunleipä
+  logo: ketunleipa.jpg
+
+- url: http://tresrestaurant.net
+  label: Tres Restaurant
+  logo: tres.png
+
+- url: http://www.ravintolakaru.fi
+  label: Karu Izakaya
+  logo: karu.png
+  imgclass: inverted
+
+- url: http://www.woodandfire.fi
+  label: Wood and fire pizza
+  logo: wood-and-fire.png
+
+- url: https://www.facebook.com/vegaaniruoanrakastajat/
+  label: Lucky Vegan
+  logo: lucky-vegan.png
+
+- url: https://turkukahvilla.fi
+  label: Turku Kahvilla
+  logo: turkukahvilla.svg
+
+- url: http://www.fafas.fi
+  label: Fafas
+  logo: fafas.png
+
+- url: http://lattecafe.biz
+  label: Latte cafe
+  logo: cafelatte.jpg
+
+- url: https://www.facebook.com/Shams-Falafelit-589293551280635/
+  label: Shams-falafelit
+  logo: shams-falafel.jpg
+
+- label: Ho Dai
+
+- url: https://www.facebook.com/Sushigalleria/
+  label: Sushigalleria Len’s
+  logo: sushigalleria-lens.jpg
+
+- url: https://oikeuttaelaimille.fi
+  label: Oikeutta eläimille
+  logo: oikeutta-elaimille.png
+
+- url: http://animalia.fi
+  label: Animalia
+  logo: animalia.png

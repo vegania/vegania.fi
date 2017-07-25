@@ -1,0 +1,46 @@
+- url: https://www.kaskis.fi
+  label: inverted Kaskis
+  logo: kaskis.png
+
+- url: http://www.ravintolakuori.fi
+  label: inverted Ravintola Kuori
+  imgclass: inverted
+  logo: kuori.png
+
+- url: http://www.pinella.fi
+  label: inverted Pinella
+  logo: pinella.png
+
+- url: http://www.sushipanda.fi
+  label: inverted Panda Sushi
+  logo: pandasushi.jpg
+
+- url: https://www.ravintolateini.fi/gastropub-loyto/
+  label: inverted Gastropub Löytö
+  logo: loyto.png
+
+- url: http://www.lavictoria.fi
+  label: inverted La Victoria
+  logo: la-victoria.png
+
+- url: http://leipomogryn.fi
+  label: inverted Leipomo Gryn
+  logo: gryn.png
+
+- url: http://www.ravintolakaru.fi
+  label: inverted Karu Izakaya
+  imgclass: inverted
+  logo: karu.png
+
+- url: http://vanak.fi
+  label: inverted Vänäk
+  logo: vanak.png
+
+- url: http://www.smoothit.fi
+  label: inverted Smooth It!
+  logo: smoothit.png
+
+- url: http://kembuz.com
+  label: inverted Kembuz Cafe
+  imgclass: inverted
+  logo: kembuzcafe.png

@@ -15,11 +15,11 @@ The event is open for all and free of charge. Vegånia food market is open on Fr
 In the Old Great Square there is also a microbrewery festival TUPA (Turku Microbrewery festival) at the same time in co-operation with Vegånia. More information about [TUPA](http://www.turunpanimofestivaali.fi/).
 
 Participants of the festival:
-
 * [Restaurants](/ravintolat)
 * [Food Market](/ruokatori)
 
+<hr>
 
-## In cooperation with Vegånia festival:
+In cooperation with Vegånia festival:
 
-{% include kumppanilista.html %}
+{% include logocards.html data=site.data.kumppanit %}

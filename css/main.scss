@@ -10,6 +10,11 @@ h1,
   text-align: center;
 }
 
+h3,
+.h3 {
+  color: darken($brand-primary, 15%);
+}
+
 main {
   h1,
   .h1 {
@@ -34,8 +39,20 @@ article {
   }
 }
 
+.card-columns {
+  @include media-breakpoint-only(md) {
+    column-count: 3;
+  }
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
+
 .card {
-  padding: 0.5rem;
+  border-color: transparent;
 
   img {
     &.inverted {
@@ -77,4 +94,8 @@ footer {
 
 .username {
   vertical-align: top;
+}
+
+ul {
+  @include list-unstyled;
 }
