@@ -15,7 +15,7 @@ kaupunkiliikenteen kuin kaukoliikenteen linja-autoreitit kulkevat Suurtorin vier
 
 Ruokatori on avoinna perjantaina 4.8. klo <time datetime="2017-08-04T15:00+02:00">15</time> - <time datetime="2017-08-04T23:00+03:00">23</time> ja lauantaina 5.8. klo <time datetime="2017-08-05T12:00+03:00">12</time> - <time datetime="2017-08-05T24:00+03:00">24</time>.
 
-Ravintolat ja ohjelma [Ruokatori](/ruokatori) sivulla.
+Ravintolat ja ohjelma [Ruokatori](/ruokatori) -sivulla.
 
 ## Turun panimofestivaali TUPA
 
@@ -25,7 +25,7 @@ Vanhan Suurtorin ympäristössä järjestetään Vegånian aikana myös [Turun p
 
 * perjantai 4.8. klo <time datetime="2017-08-04T15:00+02:00">18</time> - <time datetime="2017-08-05T02:00+02:00">02</time> [Vegånia &#9829; Kirjis](https://www.facebook.com/events/749815018539362/) -bändi-ilta. Esiintymässä: Risto, Kuningas Yrjö & Original Hese, Antti Alanko, Syömisen äänet, Taipuva luotisuora sekä Iida Umpikuja Guggenized
 * lauantai 5.8. klo 12 - 02 Kirjakahvilan [Punx for Seitan](https://www.facebook.com/events/1310894682341668/?fref=ts) -tapahtuma
-* lauantai 5.8. klo 15 - 16 Vegånian ohjelmaa: keskustelua veganismista
+* lauantai 5.8. klo 15 Luento: Vegaaniruokavalion koostaminen. Laillistettu ravitsemusterapeutti, Vegaaniliiton ravitsemusvastaava Lotta Pelkonen.
 
 <hr>
 

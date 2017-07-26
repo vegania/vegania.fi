@@ -9,6 +9,8 @@ description: Vegånia-ruokatori järjestetään 4.–5.8.2017 Vanhalla Suurtoril
 
 Ruokatori on avoinna pe 4.8. klo <time datetime="2017-08-04T15:00+03:00">15</time> - <time datetime="2017-08-04T23:00+03:00">23</time> ja la 5.8. klo <time datetime="2017-08-05T12:00+03:00">12</time> - <time datetime="2017-08-05T24:00+03:00">24</time>
 
+<hr>
+
 Ruokatorille osallistuvat ravintolat ja näytteilleasettajat
 
 {% include logocards.html data=site.data.ruokatorin_ravintolat %}
