@@ -47,6 +47,13 @@ $link-hover-decoration: underline;
 // spacing
 $spacer: 1.5rem; // 1rem;
 
+// Cards
+//$card-spacer-x:            1.25rem !default;
+//$card-spacer-y:            .75rem !default;
+//$card-columns-count:        3 !default;
+//$card-columns-gap:          1.25rem !default;
+//$card-columns-margin:       $card-spacer-y !default;
+
 // jos teksti vihreenä
 $navbar-light-color: $brand-primary;
 $navbar-light-hover-color: darken($brand-primary, 20%);

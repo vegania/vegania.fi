@@ -49,10 +49,15 @@ article {
   @include media-breakpoint-only(xl) {
     column-count: 5;
   }
+  @include media-breakpoint-up(sm) {
+    column-count: $card-columns-count;
+    column-gap: $card-columns-gap;
+  }
 }
 
 .card {
   border-color: transparent;
+  margin-bottom: $card-columns-margin;
 
   img {
     &.inverted {
