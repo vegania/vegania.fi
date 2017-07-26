@@ -44,3 +44,11 @@
   label: inverted Kembuz Cafe
   imgclass: inverted
   logo: kembuzcafe.png
+
+- url: https://www.ravintolateini.fi
+  label: Teini
+  logo: teini.png
+
+- url: https://rosterturku.com
+  label: Roster Turku
+  logo: roster.jpg
