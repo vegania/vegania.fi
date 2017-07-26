@@ -7,6 +7,8 @@ main-menu-weight: 2
 description: Vegånia-ruokatori järjestetään 4.–5.8.2017 Vanhalla Suurtorilla.
 ---
 
+Vegånia-tapahtuma tuo Vanhalle Suurtorille yhteensä 16 vegaanisia herkkuja tarjoavaa ravintolaa. Ruokatorin myyntipisteistä ostettavia annoksia voi nauttia niin ruokatorilla, viereisen Brinkkalan pihan viihtyisällä terassilla kuin pienpanimofestivaali TuPa:n anniskelualueella.
+
 Ruokatori on avoinna pe 4.8. klo <time datetime="2017-08-04T15:00+03:00">15</time> - <time datetime="2017-08-04T23:00+03:00">23</time> ja la 5.8. klo <time datetime="2017-08-05T12:00+03:00">12</time> - <time datetime="2017-08-05T24:00+03:00">24</time>
 
 <hr>
