@@ -5,7 +5,7 @@ layout: default
 <section class="container-fluid" {% if page.lang %}lang="{{ page.lang }}"{% endif %}>
   <div class="row justify-content-center">
     <div class="col col-lg-8 col-md-10 col-sm-12">
-      <h1>{{ page.main-menu }}</h1>
+      <h1>{% if page.main-menu %}{{ page.main-menu }}{% else %}{{ page.title }}{% endif %}</h1>
       <p class="lead">{{page.description}}</p>
       {{ content }}
     </div>
