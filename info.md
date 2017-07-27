@@ -19,9 +19,9 @@ Vegånia-tapahtuma tuo Vanhalle Suurtorille yhteensä 16 vegaanisia herkkuja tar
 
 Ravintolat ja ohjelma [Ruokatori](/ruokatori) -sivulla.
 
-## Turun panimofestivaali TUPA
+## Turun panimofestivaali TuPa
 
-Vanhan Suurtorin ympäristössä järjestetään Vegånian aikana myös [Turun panimofestivaali TUPA](http://www.turunpanimofestivaali.fi). Tapahtuma-alueet on sijoitettu vieretysten, joten festivaalivieraat voivat nauttia TUPA:n anniskelualueella Vegånian vegaanisten herkkujen palanpainikkeeksi myös pienpanimo-oluita.
+Vanhan Suurtorin ympäristössä järjestetään Vegånian aikana myös [Turun panimofestivaali TuPa](http://www.turunpanimofestivaali.fi). Tapahtuma-alueet on sijoitettu vieretysten, joten festivaalivieraat voivat nauttia TuPa:n anniskelualueella Vegånian vegaanisten herkkujen palanpainikkeeksi myös pienpanimo-oluita.
 
 <em>Panimofestivaalialue on avoinna Vegånian tapaan perjantaina 4.8. klo&nbsp;15&nbsp;-&nbsp;23 ja lauantaina 5.8. klo&nbsp;12&nbsp;-&nbsp;24.</em>
 

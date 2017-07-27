@@ -12,7 +12,7 @@ The festival promotes tasty, high-quality food that is also ethically and sustai
 
 The event is open for all and free of charge. Vegånia food market is open on Fri 4th August <time datetime="2017-08-04T15:00+03:00">3</time> - <time datetime="2017-08-04T23:00+03:00">11PM</time> and on Sat 5th August <time datetime="2017-08-05T12:00+03:00">12AM</time> - <time datetime="2017-08-05T24:00+03:00">12PM</time>.
 
-In the Old Great Square there is also a microbrewery festival TUPA (Turku Microbrewery festival) at the same time in co-operation with Vegånia. More information about [TUPA](http://www.turunpanimofestivaali.fi/).
+In the Old Great Square there is also a microbrewery festival [TuPa (Turku Microbrewery festival)](http://www.turunpanimofestivaali.fi/) at the same time in co-operation with Vegånia.
 
 Participants of the festival:
 * [Restaurants](/ravintolat)

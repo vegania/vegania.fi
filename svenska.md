@@ -14,7 +14,7 @@ Vegånias matmarknad är öppet:
 * Fredag 4. Augusti kl. 15 - 23
 * Lördag 5. Augusti kl. 12 - 00
 
-Vid Gamla Stortorget hålls det en mikrobryggeri festival [TUPA](http://www.turunpanimofestivaali.fi/) (Åbo mikrobryggeri festival) i samarbete med Vegånia.
+Vid Gamla Stortorget hålls det en mikrobryggeri festival [TuPa (Åbo mikrobryggeri festival)](http://www.turunpanimofestivaali.fi/) i samarbete med Vegånia.
 
 Deltagare av festivalen:
 * [Restauranger](/ravintolat)
