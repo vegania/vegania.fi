@@ -3,7 +3,7 @@
     {% if card.url %}<a href="{{ card.url }}">{% endif %}
       {% if card.logo %}<img class="card-img img-fluid {{ card.imgclass }}" src="/images/logo/{{ card.logo }}" alt="{{ card.label }}">
       {% else %}
-      <p class="card-text">{{ card.label }}</p>
+      <p class="card-text lead">{{ card.label }}</p>
       {% endif%}
     {% if card.url %}</a>{% endif %}
   </div>
