@@ -2,7 +2,7 @@
 layout: page
 title: "Vegånia ♥ Kirjis"
 permalink: /veganialoveskirjis/
-description: "Vegånia ♥ Kirjis -bändi-ilta. Vegånian ja Osuuskunta Turun Kirjakahvilan yhteistyössä järjestämiä keikkoja perjantaina 4.8."
+description: "Vegånian ja Osuuskunta Turun Kirjakahvilan yhteistyössä järjestämiä keikkoja perjantaina 4.8. Brinkkalan pihalla."
 ---
 
 ## Aikataulu
