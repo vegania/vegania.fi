@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "fetch-inject": "^1.7.0"
+    "fetch-inject": "^1.7.0",
+    "instafeed.js": "^1.4.1"
   },
   "devDependencies": {
     "critical": "^0.8.4"
@@ -16,7 +17,7 @@
     "build": "npm run js && npm run css && npm run jekyll-build",
     "css": "npm run jekyll-build && npm run css-critical",
     "css-critical": "./node_modules/critical/cli.js _site/index.html --base _site --minify > _includes/critical.min.css",
-    "js": "cp node_modules/fetch-inject/dist/fetch-inject.min.js _includes/"
+    "js": "cp node_modules/fetch-inject/dist/fetch-inject.min.js _includes/ && cp node_modules/instafeed.js/instafeed.min.js js/"
   },
   "repository": {
     "type": "git",

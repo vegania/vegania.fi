@@ -104,3 +104,11 @@ footer {
 ul {
   @include list-unstyled;
 }
+
+#instafeed {
+  img {
+    @include img-fluid;
+
+    margin: 0 1em 1em 0;
+  }
+}
