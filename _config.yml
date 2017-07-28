@@ -38,7 +38,7 @@ markdown: kramdown
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-seo-tag
   - bootstrap
   - autoprefixer-rails
