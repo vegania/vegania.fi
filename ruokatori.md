@@ -21,17 +21,21 @@ Ruokatorille osallistuvat ravintolat ja näytteilleasettajat
 
 ## Ruokatorin ohjelma
 
-### Pikakurssi falafelien tekoon
+### Pikakurssi falafelien tekoon / Shams-falafelit
 
 * perjantai 4.8. klo <time datetime="2017-08-04T16:00+02:00">16</time> ja <time datetime="2017-08-04T18:00+02:00">klo 18</time>
 * lauantai 5.8. klo <time datetime="2017-08-05T13:00+02:00">13</time> ja <time datetime="2017-08-05T18:00+02:00">klo 18</time>
 
 Shams-falafelien myyntipisteellä pikakursseja falafelien tekoon.
 
-### Animalian pakopeli
+### Pako eläintilalta -pakopeli / Animalia
 
 * perjantai 4.8. klo <time datetime="2017-08-04T15:00+02:00">15</time> - <time datetime="2017-08-04T20:00+02:00">20</time>
 
-Animalian kokemuksellinen Pako eläintilalta -pakopeli vie pelaajan suomalaisen tehotuotannon olosuhteisiin. Peli on maksuton ja sitä pelataan 2-4 hengen ryhmissä.
+Animalian teltalla kokemuksellinen Pako eläintilalta -pakopeli vie pelaajan suomalaisen tehotuotannon olosuhteisiin. Peli on maksuton ja sitä pelataan 2-4 hengen ryhmissä.
+
+### Lyhytelokuvaesitys / Oikeutta eläimille
+
+Oikeutta eläimille esittää omalla teltallaan vuonna 2016 tuottamaansa suosittua ja kiitettyä virtuaalitodellisuuselokuvaa. Elokuvaa katsotaan virtuaalitodellisuuslaseilla, jolloin katsoja näkee 360 astetta ympärilleen. Elokuva kestää reilut viisi minuuttia ja sen kertojana toimii Olavi Uusivirta.
 
 {% include ruokatori.data.html %}
