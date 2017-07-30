@@ -52,3 +52,7 @@
 - url: https://rosterturku.com
   label: Roster Turku
   logo: roster.jpg
+
+- url: http://www.turunkasvisravintola.fi/
+  label: Turun KASVIS-ravintola
+  logo: kasvis.png
