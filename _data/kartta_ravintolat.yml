@@ -1,0 +1,60 @@
+- number: 1
+  name: Vänäk
+  address: Maariankatu 2
+  url: http://vanak.fi/
+
+- number: 2
+  name: La Victoria
+  address: Eerikinkatu 16
+  url: http://lavictoria.fi/
+
+- number: 3
+  name: Karu Izakaya
+  address: Aurakatu 3
+  url: http://ravintolakaru.fi/
+
+- number: 4
+  name: Sushi Panda
+  address: Linnankatu 9
+  url: http://www.sushipanda.fi/
+
+- number: 5
+  name: Leipomo Gryn
+  address: Linnankatu 9-11
+  url: https://leipomogryn.fi/
+
+- number: 6
+  name: Pinella
+  address: Vanha Suurtori 2
+  url: http://www.pinella.fi/
+
+- number: 7
+  name: Teini & Löytö
+  address: Uudenmaankatu 1
+  url: https://www.ravintolateini.fi/
+
+
+- number: 8
+  name: Kaskis
+  address: Kaskenkatu 6
+  url: https://www.kaskis.fi/
+
+- number: 9
+  name: Roster Turku
+  address: Tuomiokirkonkatu 6
+  url: https://rosterturku.com/
+
+- number: 10
+  name: Kembuz Cafe
+  address: Hämeenkatu 3b
+  url: https://kembuz.com/
+
+- number: 11
+  name: Ravintola Kuori
+  address: Hämeenkatu 8
+  url: https://www.ravintolakuori.fi/
+
+- number: 12
+  name: Smooth it!
+  address: Uudenmaantie 17
+  url: http://www.smoothit.fi/

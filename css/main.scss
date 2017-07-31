@@ -24,6 +24,16 @@ main {
   p {
     line-height: 1.7;
   }
+
+  img {
+    @include img-fluid();
+  }
+
+  .list-inline-item {
+    &.btn {
+      margin-bottom: $card-columns-gap;
+    }
+  }
 }
 
 section,

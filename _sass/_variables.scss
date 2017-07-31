@@ -6,6 +6,11 @@
 // See https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
 
 // Colours
+$brand-primary: rgb(102, 153, 51); // vihreä
+$brand-effect: rgb(51, 204, 204);
+
+$brand-info:    $brand-primary; // $teal !default;
+$badge-info-bg: $brand-info; // $brand-info !default;
 
 // Uncomment and customise as required
 // $brand-primary:             #f7df1e;
@@ -32,9 +37,6 @@ $font-size-h5: 1.1rem; // 1.25rem;
 $font-size-h6: 1rem;
 
 $headings-margin-bottom: ($spacer / 1.5); // ($spacer / 2);
-
-$brand-primary: rgb(102, 153, 51);
-$brand-effect: rgb(51, 204, 204);
 
 // Links
 $link-color:            $brand-primary; // theme-color("primary");

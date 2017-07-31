@@ -12,3 +12,13 @@ description: "Vegånia levittäytyy myös Vanhan Suurtorin ulkopuolelle. Turkula
 Vegånia-nimikkoannoksia löytyy seuraavista ravintoloista
 
 {% include logocards.html data=site.data.nimikkoannos_ravintolat %}
+
+<hr>
+
+![Ravintolakartta]({{ site.url }}/images/kartta.jpg)
+
+<ul class="list-inline">
+  {% for venue in site.data.kartta_ravintolat %}
+    {% include map_location.html venue=venue %}
+  {% endfor %}
+</ul>
