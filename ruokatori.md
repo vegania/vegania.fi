@@ -4,7 +4,7 @@ title: Vegånia - Ruokatori
 permalink: /ruokatori/
 main-menu: Ruokatori
 main-menu-weight: 2
-description: "Vegånia-tapahtuma tuo Vanhalle Suurtorille yhteensä 16 vegaanisia herkkuja tarjoavaa ravintolaa."
+description: "Vegånia-tapahtuma tuo Vanhalle Suurtorille laajan valikoiman vegaanisia herkkuja tarjoavia ravintoloita."
 ---
 
 Ruokatorin myynti&shy;pisteistä ostettavia annoksia voi nauttia niin ruokatorilla, viereisen Brinkkalan pihan viihtyisällä terassilla kuin pienpanimo&shy;festivaali [TuPa](http://www.turunpanimofestivaali.fi):n anniskelualueella.
