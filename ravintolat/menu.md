@@ -97,3 +97,11 @@ lehtikaalista
 ### [KASVIS-ravintola](http://www.turunkasvisravintola.fi/)
 
 Vegaaniviikko
+
+### [Kuori](http://www.ravintolakuori.fi)
+
+Viiden ruokalajin Vegånia-menu
+
+### [La Victoria](http://www.lavictoria.fi)
+
+Vegaaninen Tacos al Pastor sekä vaihtelevasti muita meksikolaisia klassikoita
