@@ -63,7 +63,7 @@ Vegeburger
 
 ### [Smooth It!](http://www.smoothit.fi)
 
-- Suklainen ja ravitseva Coco-Nut smoothie riisiproteiinibuustilla
+- Suklainen ja ravitseva Coco-Nut -smoothie riisiproteiinibuustilla
 - Yrttisen raikas Deliverden vihersmoothie
 
 ### [Kembuz Cafe](http://kembuz.com)
@@ -90,7 +90,7 @@ Vegaaninen kesäsalaatti
 Korianteria
 - +
 - Paahdettua kukkakaalia, mantelipyreetä sekä ragu punaisista linsseistä ja
-Lehtikaalista
+lehtikaalista
 - +
 - Sitruunaverbenamoussea, marinoituja mansikoita ja mansikkasorbettia
 
