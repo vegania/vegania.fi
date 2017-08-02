@@ -48,7 +48,7 @@ description: "Vegånian ja Osuuskunta Turun Kirjakahvilan yhteistyössä järjes
 </dt>
   <dd class="col-sm-11">
   <h3>Risto</h3>
-  <p>Leevi & the Leavings kaupungissa, Ville Leinonen käsiraudoissa, Kauko Röyhkä itsesäälissä, Kari Peitsamo fiksuna. Risto tuo takaisin sitä itsevarmuutta, naiiviutta ja aitoutta joka kuoli Gösta Sundqvistin mukana. "Ihan mukava tyyppi ja ihan hyvää musaa."</p>
+  <p>Leevi & the Leavings kaupungissa, Ville Leinonen käsiraudoissa, Kauko Röyhkä itsesäälissä, Kari Peitsamo fiksuna. Risto tuo takaisin sitä itsevarmuutta, naiiviutta ja aitoutta joka kuoli Gösta Sundqvistin mukana.<br>"Ihan mukava tyyppi ja ihan hyvää musaa."</p>
 </dd>
 </dl>
 
