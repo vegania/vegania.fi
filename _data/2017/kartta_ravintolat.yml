@@ -23,8 +23,8 @@
   address: Linnankatu 9-11
   url: https://leipomogryn.fi/
 
-- number: 6
-  name: Pinella
+- name: Pinella
+  number: 6
   address: Vanha Suurtori 2
   url: http://www.pinella.fi/
 

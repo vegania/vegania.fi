@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Vegånia ♥ Kirjis"
-permalink: /veganialoveskirjis/
-description: "Vegånian ja Osuuskunta Turun Kirjakahvilan yhteistyössä järjestämiä keikkoja perjantaina 4.8. Brinkkalan pihalla."
+permalink: /2017/veganialoveskirjis/
+description: "Vegånian ja Osuuskunta Turun Kirjakahvilan yhteistyössä järjestämiä keikkoja perjantaina 4.8.2017 Brinkkalan pihalla."
 ---
 
 ## Aikataulu

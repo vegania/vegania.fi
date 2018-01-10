@@ -3,7 +3,7 @@ layout: page
 title: "Paikka nimeltä #Vegånia"
 permalink: /some/
 main-menu: "#Vegånia"
-main-menu-weight: 7
+main-menu-weight: 8
 description: "Vegånia muualla netissä: Instagram, Twitter ja Facebook"
 ---
 
