@@ -18,7 +18,7 @@ layout: default
           <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
             <h3 itemprop="name headline">{{ post.title }}</h3>
             <p class="post-meta">
-              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d.%-m %Y" }}</time>
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d.%-m. %Y" }}</time>
             </p>
             <p>{{ post.excerpt }}</p>
             <a href="{{ post.url }}">Lue lisää...</a>
