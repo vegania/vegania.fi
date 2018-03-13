@@ -9,12 +9,12 @@
 title: "Vegånia"
 email: info.vegania@gmail.com
 excerpt: > # "description:"
-  Uusi koko kansan vegaaniruokatapahtuma Turkuun kesällä – Vegåniassa tarjotaan maittavaa ruokaa ympäristöä kunnioittaen
+  Suomen ensimmäinen vegaaninen katuruokatapahtuma Vegånia tarjoaa maittavaa ruokaa ympäristöä kunnioittaen
 description: > # "baseurl:"
-  Vegånia – vegaaniruokafestivaalin pääosassa on maukas ja laadukas ruoka, joka on kestävästi tuotettua ja eettistä.
-  Vegånia on tapahtuma vegaaneille ja yhtälailla kaikkien kaupunkilaisten yhteinen ruokajuhla.
-  Tapahtuma järjestettiin ensimmäistä kertaa Turun Vanhalla Suurtorilla 4.–5.8.2017.
-  Vegånia saa jatkoa vuonna 2018.
+  Vegånia – vegaaniruokafestivaalin pääosassa on maukas ja laadukas ruoka, joka on kestävästi tuotettua
+  ja eettistä. Vegånia on tapahtuma vegaaneille ja yhtälailla koko kansan yhteinen ruokajuhla.
+  Tapahtuma järjestettiin ensimmäistä kertaa Turun Vanhalla Suurtorilla elokuussa 2017.
+  Vegånia-festivaali täyttää Suurtorin uudelleen 3.-4.8.2018.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vegania.fi" # the base hostname & protocol for your site
 twitter:
